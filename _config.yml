@@ -1,0 +1,28 @@
+name: Samscatsanddogs.com
+favicon: null
+layout_spectrum: 0.37371179764159024
+typography_spectrum: 0.8320623631589115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.36887052142992616
+  lightness: 0.5198209949303418
+  saturation: 0.5162093637045473
+  rhythmicContrast: 0.7558619005139917
+purpose: []
